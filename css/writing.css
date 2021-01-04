@@ -1,0 +1,139 @@
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Arvo', serif;*/
+
+
+.font_mr
+{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	color: #9f9f9f;
+}
+
+.font_mb
+{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	color: #757575;
+	letter-spacing: 3pt;
+}
+
+.font_ar
+{
+	font-family: 'Arvo', serif;
+	font-weight: 400;
+}
+
+.font_ai
+{
+	font-family: 'Arvo', serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+.by
+{
+	font-size: 10pt;
+	color: #9f9f9f;
+}
+
+h1
+{
+	color: #212121;
+	font-size: 40pt;
+	padding: 40px 0;
+	line-height: 60pt;
+}
+
+h6
+{
+	font-size: 11pt;
+}
+
+
+.intro
+{
+	padding-top: 90px;
+	padding-bottom: 135px;
+	font-size: 16pt;
+	line-height: 29pt;
+}
+
+.date
+{
+	font-size: 12pt;
+}
+
+.left_b3
+{
+	max-width: 27%;
+	padding-right: 11%;
+}
+
+.right_b3
+{
+	max-width: 70%;
+	margin-right: 0;
+}
+
+.imp_note
+{
+	font-size: 10pt;
+	line-height: 18pt;
+	padding-bottom: 10pt;
+}
+
+.note
+{
+	color: #9f9f9f;
+	font-size: 13pt;
+	line-height: 25pt;
+}
+
+.txt_b3
+{
+	font-size: 14pt;
+	line-height: 27pt;
+}
+
+.pt
+{
+	padding-top: 50px;
+}
+
+
+.txt3_2>p
+{
+	text-align: center;
+	font-size: 20pt;
+	line-height: 35pt;
+	padding: 5% 0;
+}
+
+
+.left_b3_3
+{
+	max-width: 45%;
+	padding-right: 15%;
+}
+
+.right_b3_3
+{
+	max-width: 70%;
+	margin-right: 0;
+}
+
+
+.black
+{
+	color: #242424;
+	letter-spacing: 1pt;
+	padding: 14px 0;
+}
+
+.txt_b5
+{
+	line-height: 25pt;
+	font-size: 13pt;
+}
+
+

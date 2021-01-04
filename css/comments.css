@@ -1,0 +1,261 @@
+.block6
+{
+	padding-bottom: 150px;
+	background-color: #f8f8f8;
+}
+
+.block6_1
+{
+	padding-bottom: 90px;
+}
+
+.commentaire1
+{
+	display: flex;
+}
+
+.pdp_com
+{
+	width: 12%;
+}
+
+.right_com
+{
+	width: 88%;
+}
+
+
+.infos_com
+{
+	display: flex;
+}
+
+.nom
+{
+	width: 90%;
+	letter-spacing: 2pt;
+	font-size: 13pt;
+}
+
+.ago
+{	
+	margin-right: 0px;
+	padding: 14px 0;
+	font-size: 11pt;
+}
+
+.pdp
+{
+	padding-top: 12%;
+	padding-right: 5px;
+	width: 78px;
+}
+
+.txt_com
+{
+	line-height: 23pt;
+	font-size: 12pt;
+
+}
+
+.like, .nb_like
+{
+	width: 19px;
+}
+
+.reply
+{
+	padding-left: 38px;
+	width: 70px;
+}
+
+
+.nb_like
+{
+	padding-left: 7px;
+	padding-bottom: 2px;
+}
+
+.reply_padding
+{
+	padding-left: 300px;
+}
+
+.reply_padding>.right_com
+{
+	max-width: 75%;
+}
+
+section.reply_padding>.pdp_com>img
+{
+	width: 70px;
+} 
+
+section.reply_padding>.pdp_com
+{
+	width: 10%;
+} 
+
+section.reply_padding>div>div>h3
+{
+	font-size: 11pt;
+} 
+
+
+.bas_com
+{
+	padding: 20px 0;
+}
+
+.hr_com
+{
+	height: 1px; 
+}
+
+.div_hr
+{
+	padding-top: 30px;
+	padding-bottom: 38px;
+}
+
+.rec_gris
+{
+	background-color: #f0f0f0;
+	height: 150px;
+	border-radius: 10px;
+}
+
+.your_com
+{
+	padding-top: 25px;
+}
+
+.auifhqsiulf
+{
+	padding-bottom: 30px;
+}
+
+.send
+{
+	background-color: #ffc80a;
+	height: 60px;
+	width: 180px;
+	border-radius: 40px;
+	margin-top: 50px;
+	display: flex;
+	margin-left: auto;
+	margin-right: 0;
+}
+
+.txt_send
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	color: #4a4a4a;
+	font-size: 11pt;
+}
+
+.share_line
+{
+	height: 82px;
+}
+
+
+.comments
+{
+	margin-top: auto;
+	margin-bottom: auto;
+	padding-right: 10px;
+	font-size: 13pt;
+}
+
+.reseaux>img
+{
+	width: 105px;
+	padding-left: 9px;
+	cursor: pointer;
+}
+
+.reseaux
+{
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 411px;
+}
+
+.slava_le_bg
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 74px;
+}
+
+.comments{color: #242424;}
+
+.share_line
+{
+	display: flex;
+}
+
+.bubble
+{
+	padding-left: 10px;
+	height: 27px;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 35px;
+}
+
+.bubble_div
+{
+	background-color: #8d76be;
+	width: 34px;
+	height: 27px;
+	margin-top: auto;
+	margin-bottom: auto;
+	border-radius: 15px;
+	display: flex;
+}
+
+.bubble_div>p
+{
+	color: #FFFFFF;
+	font-size: 10pt;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+input[type=submit]
+{
+	border: none;
+	background-color: #ffc80a;
+	border-radius: 40px;
+	display: flex;
+	cursor: pointer;
+	padding: 21px 60px;
+	text-decoration: none;
+	display: flex;
+	margin-left: auto;
+	margin-right: 0;
+}
+
+input:focus {
+  outline: none;
+}
+
+input[type=text]
+	{
+		background-color: #f0f0f0;
+		height: 90px;
+		border-radius: 10px;
+		width: 95%;
+		border: none;
+		padding-left: 5%;
+		padding-bottom: 60px;
+		font-size: 12pt;
+	}
